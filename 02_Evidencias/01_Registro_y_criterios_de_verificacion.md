@@ -7,14 +7,14 @@
 
 | Registro | Ubicación | Verificación | Alcance probatorio |
 | --- | --- | --- | --- |
-| EV-00 | [README principal](../README.md) | Archivo existente | Contexto general, propósito declarado y equipo |
+| EV-00 | [README principal](../README.md) | Archivo existente | Versión unificada de alcance, propósito, fase preparatoria, responsabilidades y seguimiento |
 | EV-01 | [Carpeta de formulación](../01_Formulacion/) | Cinco archivos presentes, incluidos documentos y material gráfico | Insumos de formulación, no aprobación de ACT-01 |
 | EV-02 | [ACT-01](https://github.com/FGambaS/mas_escuelas/issues/1) | Issue abierto, sin comentarios de seguimiento | Define actividad y criterio de cierre |
 | EV-03 | [ACT-02](https://github.com/FGambaS/mas_escuelas/issues/2) | Issue abierto, sin comentarios de seguimiento | Define actividad y criterio de cierre |
 | EV-04 | [ACT-03](https://github.com/FGambaS/mas_escuelas/issues/3) | Issue abierto, sin comentarios de seguimiento | Define actividad y criterio de cierre |
 | EV-05 | [ACT-04](https://github.com/FGambaS/mas_escuelas/issues/4) | Issue abierto, sin comentarios de seguimiento | Define actividad y criterio de cierre |
 
-**Resultado de auditoría:** se constata infraestructura documental inicial y un sistema básico de tareas; **no se constatan evidencias suficientes de cumplimiento de los cuatro entregables**. La existencia de archivos no prueba automáticamente ejecución de actividades.
+**Resultado de auditoría:** se constata infraestructura documental inicial y un sistema básico de tareas de la fase preparatoria; **no se constatan evidencias suficientes de cumplimiento de los cuatro entregables**. La existencia de archivos no prueba automáticamente ejecución de actividades.
 
 ## Registro de evidencias por completar
 
