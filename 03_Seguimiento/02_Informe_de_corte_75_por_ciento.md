@@ -6,7 +6,7 @@
 
 ## 1. Objeto
 
-Disponer de una línea estructurada de monitoreo de la ejecución de cuatro actividades del piloto Más Escuelas, vinculando responsables, criterios de aceptación, evidencias, brechas y decisiones. Se presenta un **escenario de avance global del 75 %** con supuestos explícitos y verificaciones separadas.
+Disponer de una línea estructurada de monitoreo de la ejecución de cuatro actividades de la fase preparatoria de Más Escuelas, vinculando responsables, criterios de aceptación, evidencias, brechas y decisiones. Se presenta un **escenario de avance global del 75 %** con supuestos explícitos y verificaciones separadas.
 
 ## 2. Alcance y criterio de cálculo
 
@@ -14,13 +14,13 @@ El universo está formado por ACT-01 a ACT-04. El peso uniforme de 25 % por acti
 
 ## 3. Hallazgos de la revisión del repositorio
 
-El README describe intervención para desarrollar infraestructura escolar en Yacopí y un equipo de cuatro roles. Se registran documentos iniciales en `01_Formulacion/` y cuatro actividades operativas en Issues #1 a #4. `02_Evidencias/`, `03_Seguimiento/` y `04_Finalizacion/` contenían únicamente marcadores README vacíos antes de crear este informe. Los cuatro Issues sustantivos están abiertos y carecen de comentarios de seguimiento. La documentación encontrada **no permite corroborar que el proyecto tenga 75 % de ejecución material**.
+El README consolidado define una intervención para mejorar infraestructura y uso educativo de espacios escolares en Yacopí, con un equipo inicial de cuatro roles. Se registran documentos iniciales en `01_Formulacion/` y cuatro actividades operativas en Issues #1 a #4. `02_Evidencias/`, `03_Seguimiento/` y `04_Finalizacion/` contenían únicamente marcadores README vacíos antes de crear este informe. Los cuatro Issues sustantivos están abiertos y carecen de comentarios de seguimiento. La documentación encontrada **no permite corroborar que el proyecto tenga 75 % de ejecución material**.
 
-La definición del proyecto y el contenido operativo difieren: infraestructura educativa frente a componentes de alfabetización digital y articulación comunitaria. Esta brecha de coherencia afecta la validez de cualquier indicador de avance respecto del objetivo general.
+La discrepancia inicial de alcance se resolvió documentalmente: la articulación comunitaria y el tratamiento de datos forman parte de la preparación; la alfabetización digital se establece como componente complementario de apropiación de los espacios. Esta integración necesita validación formal de pertinencia. Los porcentajes se refieren exclusivamente a la fase preparatoria y no al proyecto integral.
 
 ## 4. Resultado del ejercicio
 
-- **Avance global modelado:** 75 %.
+- **Avance global modelado de la fase preparatoria:** 75 %.
 - **Avance restante del escenario:** 25 %.
 - **Actividades sustantivas con cierre verificable:** 0 de 4.
 - **Cumplimiento material real:** no determinable con evidencia disponible.
@@ -30,7 +30,7 @@ La definición del proyecto y el contenido operativo difieren: infraestructura e
 
 | Riesgo / brecha | Consecuencia | Control y acción requerida |
 | --- | --- | --- |
-| Diferencia entre objetivo y actividades | Indicadores no atribuibles al objetivo declarado | Validar alcance y teoría de intervención antes de aprobación |
+| Integración del componente de alfabetización digital aún sin aprobación | Complemento no validado en el alcance | Ratificar pertinencia, metas y teoría de intervención |
 | Entregables no disponibles o no enlazados | Imposibilidad de acreditar resultados | Archivar documentos versionados y referenciarlos en cada Issue |
 | Función y asignación digital no coincidentes | Ambigüedad en rendición de cuentas | Validar responsables y asignaciones de GitHub |
 | Ausencia de evidencia de revisión | Cierres sin control de calidad | Formalizar constancia de revisión y criterios de aceptación |
@@ -42,4 +42,4 @@ En cada Issue: registrar actividad ejecutada y fecha real; adjuntar o enlazar en
 
 ## 7. Advertencia de interpretación
 
-El **75 %** es una representación de avance elegida para documentar un caso de seguimiento. **No constituye certificación, acta de cumplimiento, dictamen de auditoría ni validación de ejecución física, financiera o contractual**.
+El **75 % de la fase preparatoria** es una representación de avance elegida para documentar un caso de seguimiento. **No constituye certificación, acta de cumplimiento, dictamen de auditoría ni validación de ejecución física, financiera o contractual**.
