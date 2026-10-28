@@ -3,7 +3,7 @@
 **Autor:** Fabián A. Gamba-Sánchez  
 **Estado:** instrumento preparatorio. No constituye un acta de cierre.
 
-Antes de finalizar el proyecto deberán verificarse conjuntamente:
+Para cerrar la **fase preparatoria** deberán verificarse conjuntamente:
 
 - Alcance y objetivos conciliados y formalmente aprobados.
 - Evidencias de cumplimiento de ACT-01, ACT-02, ACT-03 y ACT-04, enlazadas a sus Issues.
@@ -13,4 +13,6 @@ Antes de finalizar el proyecto deberán verificarse conjuntamente:
 - Protección de datos personales, particularmente de menores.
 - Balance final de productos, dificultades, aprendizajes y recomendaciones.
 
-El porcentaje modelado de 75 % en `03_Seguimiento/` no habilita por sí mismo ningún cierre. La formalización de cierre requiere soporte verificable.
+El porcentaje modelado de 75 % **de la fase preparatoria** en `03_Seguimiento/` no habilita por sí mismo ningún cierre. La formalización de cierre requiere soporte verificable.
+
+El cierre de esta fase **no equivale al cierre del proyecto de infraestructura**: la ejecución física, presupuestal y la entrega de espacios educativos requieren sus propios hitos, indicadores y evidencias.
