@@ -6,7 +6,7 @@
 
 ## Criterio metodológico
 
-Se consideran las cuatro actividades sustantivas ACT-01 a ACT-04 (Issues #1 a #4). Los Issues #5 (duplicado conceptual sin descripción) y #6 (prueba cerrada) se excluyen del denominador hasta depurarlos formalmente. Por ausencia de ponderaciones acordadas, las cuatro actividades tienen el mismo peso (25 %). Se calcula el avance agregado como promedio de sus avances parciales. Los porcentajes parciales siguientes son **supuestos del escenario**, no constataciones.
+Se consideran las cuatro actividades de la **fase preparatoria** ACT-01 a ACT-04 (Issues #1 a #4). Los Issues #5 (duplicado conceptual sin descripción) y #6 (prueba cerrada) se excluyen del denominador hasta depurarlos formalmente. Por ausencia de ponderaciones acordadas, las cuatro actividades tienen el mismo peso (25 %). Se calcula el avance agregado como promedio de sus avances parciales. Los porcentajes parciales siguientes son **supuestos del escenario**, no constataciones.
 
 | ID | Actividad | Responsable funcional según Issue | Peso | Avance de referencia | Aporte al total | Estado real en GitHub | Entregable y control |
 | --- | --- | --- | ---: | ---: | ---: | --- | --- |
@@ -16,7 +16,7 @@ Se consideran las cuatro actividades sustantivas ACT-01 a ACT-04 (Issues #1 a #4
 | ACT-04 | Diseñar tres módulos de alfabetización digital | Katherine Vásquez | 25 % | 60 % | 15 pp | Abierto | Tres guías formativas v01 |
 | **Total** | | | **100 %** | | **75 pp** | **0 de 4 cerrados** | |
 
-**Cálculo:** (90 + 80 + 70 + 60) / 4 = **75 % de avance modelado**. El porcentaje **verificado de cumplimiento de los entregables no puede establecerse** con la documentación disponible. Ninguno de los cuatro Issues está cerrado y ninguno enlaza un entregable aceptado.
+**Cálculo:** (90 + 80 + 70 + 60) / 4 = **75 % de avance modelado **de la fase preparatoria****. El porcentaje **verificado de cumplimiento de los entregables no puede establecerse** con la documentación disponible. Ninguno de los cuatro Issues está cerrado y ninguno enlaza un entregable aceptado.
 
 ## Seguimiento por actividad: escenario y comprobación requerida
 
@@ -54,7 +54,7 @@ Se consideran las cuatro actividades sustantivas ACT-01 a ACT-04 (Issues #1 a #4
 
 ## Alertas y decisiones
 
-1. **Coherencia del alcance:** el README presenta infraestructura escolar en Yacopí; los Issues #2 a #4 se orientan a trabajo comunitario y alfabetización digital. Debe aprobarse la integración o delimitarse una línea de trabajo antes de declarar cumplimiento.
-2. **Responsables:** Andrea Figueroa y Katherine Vásquez aparecen como responsables funcionales, pero los Issues constan asignados en GitHub a FGambaS. La asignación digital debe acordarse y corregirse según permisos.
+1. **Coherencia del alcance:** el alcance está unificado en el README: mejora de infraestructura y uso educativo de espacios escolares en Yacopí; las actividades comunitarias, de datos y alfabetización digital son preparatorias o complementarias. Queda por validar formalmente la pertinencia y viabilidad de cada componente.
+2. **Responsables:** Andrea Figueroa y Katherine Vásquez son referentes funcionales consignados en las fichas, aún no ratificados dentro del equipo; FGambaS es el asignatario técnico de administración de Issues. Confirmar responsabilidades antes de atribuir ejecución.
 3. **Evidencia no sustituible por porcentaje:** no cerrar actividades ni reportar 75 % real hasta contar con pruebas suficientes.
 4. **Trazabilidad:** cualquier cambio en porcentajes debe conservar fecha, responsable, enlace de evidencia, método de medición y decisión de revisión.
